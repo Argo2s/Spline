@@ -1,0 +1,13 @@
+﻿  cl : Command line warning D9035 : option 'Gm' has been deprecated and will be removed in a future release
+  SimpleGLUT.cpp
+C:\Users\flash\Desktop\New folder\CSCI6555lab1\SimpleGLUT.cpp(47,33): warning C4838:  conversion from 'int' to 'GLfloat' requires a narrowing conversion
+C:\Users\flash\Desktop\New folder\CSCI6555lab1\SimpleGLUT.cpp(47,38): warning C4838:  conversion from 'int' to 'GLfloat' requires a narrowing conversion
+C:\Users\flash\Desktop\New folder\CSCI6555lab1\SimpleGLUT.cpp(47,45): warning C4838:  conversion from 'int' to 'GLfloat' requires a narrowing conversion
+C:\Users\flash\Desktop\New folder\CSCI6555lab1\SimpleGLUT.cpp(47,50): warning C4838:  conversion from 'int' to 'GLfloat' requires a narrowing conversion
+C:\Users\flash\Desktop\New folder\CSCI6555lab1\SimpleGLUT.cpp(48,10): warning C4838:  conversion from 'int' to 'GLfloat' requires a narrowing conversion
+C:\Users\flash\Desktop\New folder\CSCI6555lab1\SimpleGLUT.cpp(48,16): warning C4838:  conversion from 'int' to 'GLfloat' requires a narrowing conversion
+C:\Users\flash\Desktop\New folder\CSCI6555lab1\SimpleGLUT.cpp(48,23): warning C4838:  conversion from 'int' to 'GLfloat' requires a narrowing conversion
+C:\Users\flash\Desktop\New folder\CSCI6555lab1\SimpleGLUT.cpp(48,32): warning C4838:  conversion from 'int' to 'GLfloat' requires a narrowing conversion
+C:\Users\flash\Desktop\New folder\CSCI6555lab1\SimpleGLUT.cpp(49,8): warning C4838:  conversion from 'int' to 'GLfloat' requires a narrowing conversion
+C:\Users\flash\Desktop\New folder\CSCI6555lab1\SimpleGLUT.cpp(49,18): warning C4838:  conversion from 'int' to 'GLfloat' requires a narrowing conversion
+  SimpleGLUT.vcxproj -> C:\Users\flash\Desktop\New folder\CSCI6555lab1\.\Debug\SimpleGLUT.exe
